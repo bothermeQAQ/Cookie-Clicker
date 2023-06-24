@@ -1,2 +1,2 @@
 # Cookie-Clicker
-clicking a cookie
+click to gain merit
